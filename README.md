@@ -7,4 +7,4 @@ Before accessing the files, make sure that you have these softwares in your syst
 2. MS Office
 3. MS SQL Server
 
-The current repository consist of 1 project.
+The current repository consist of 2 project.
