@@ -8,3 +8,5 @@ Before accessing the files, make sure that you have these softwares in your syst
 3. MS SQL Server
 
 The current repository consist of 2 project.
+1. Personal Portfolio Dashboard
+2. Loan Disbursement Dashboard
